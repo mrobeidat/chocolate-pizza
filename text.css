@@ -1,0 +1,72 @@
+.logo
+{
+    padding-right:15px;
+    position: relative;
+    bottom: 12px;
+}
+
+.logo-text
+{
+    position: relative;
+    display: inline-block;
+}
+
+.icons
+{
+    position: relative;
+    text-align: right;
+    right: 2%;
+}
+.icons li
+{
+    display: inline-block;
+    position: relative;
+    bottom:100px;
+}
+hr
+{
+    border-top: dashed;
+}
+.chocolate
+{
+    position: relative;
+    right: 300px;
+}
+
+.print
+{
+    float: right;
+    position: relative;
+}
+
+.cake
+{
+    text-align: center;
+}
+.description
+{
+    padding-top: 10px;
+    position: relative;
+    left: 300px;
+}
+
+.list
+{
+    background-image: url(img/list-bg.png);
+    position: relative;
+    left:310px;
+    height: 200px;
+    width: 800px;
+}
+.list2
+{
+    float: right;
+    position: relative;
+    bottom:152px;
+    right: 110px;
+}
+
+span
+{
+    text-decoration: line-through;
+}
